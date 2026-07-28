@@ -5,11 +5,7 @@ info:
 
 http:
   method: GET
-  url: https://webhook.site/282c4b4d-35a9-479d-885f-b46315815682/:test
-  params:
-    - name: test
-      value: ""
-      type: path
+  url: https://jsonplaceholder.typicode.com/posts/
   auth: inherit
 
 settings:
