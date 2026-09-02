@@ -5,7 +5,7 @@ info:
 
 http:
   method: GET
-  url: https://example.com/base
+  url: https://example.com/ours
   auth: inherit
 
 settings:
